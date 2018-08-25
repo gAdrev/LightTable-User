@@ -13,6 +13,7 @@
  "Python" "0.0.7",
  "Rainbow" "0.0.8",
  "Vim" "0.2.1",
- "clj-light-refactor" "0.1.6"},
+ "clj-light-refactor" "0.1.6",
+ "parembrace" "0.1.0"},
  :author "gadrev",
  :name "User"}
